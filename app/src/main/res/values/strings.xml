@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TempConverter</string>
+    <string name="celsiusLabel">Celsius</string>
+    <string name="fahrenheitLabel">Fahrenheit</string>
+    <string name="warm">I wish it were warmer</string>
+    <string name="cold">I wish it were colder</string>
+    <string name="msg">Interesting Message</string>
+    <string name="zero">0.00</string>
+    <string name="thirtyTwo">32.00</string>
 </resources>
